@@ -14,4 +14,4 @@ I recommend spending some time planning and deciding which pieces you'll need be
 Commit your project to your personal github repo for 6018
 
 ### Screen Recording of Submission
-![This is an image](https://github.com/j2695203/MSD6018Repo/blob/3b0b3a1ddd60b05a431c3f027d4faa19e801989b/Lab1/ScreenRecording.gif)
+![This is an image](https://github.com/j2695203/MSD6018Repo/blob/941d3096c6edd4ca2626fde0040df199a750fdb8/Lab2/Lab2_recording.gif)
