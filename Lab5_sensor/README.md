@@ -21,4 +21,5 @@ Push your code to your git repo, be sure to include a screenshot, and ideally a 
 
 
 ## Screen Recording of Submission
-![This is an image](https://github.com/j2695203/MSD6018Repo/blob/5bee94c2b80221252a5a2ba67b3fab51bcddb9ba/Lab5_sensor/Screen%20Recording%20Lab5.mov)
+https://github.com/j2695203/MSD6018Repo/assets/48047262/b380dbff-84d9-4f35-85c9-d89b9765dd61
+
