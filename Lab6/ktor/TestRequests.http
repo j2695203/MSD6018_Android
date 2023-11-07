@@ -1,0 +1,41 @@
+POST http://127.0.0.1:8080/posts/content
+Content-Type: application/json
+
+{
+  "content" : "Post #1"
+}
+
+####
+POST http://127.0.0.1:8080/posts/content
+Content-Type: application/json
+
+{
+  "content" : "Post #2"
+}
+
+###
+GET http://127.0.0.1:8080/posts
+
+####
+GET http://127.0.0.1:8080/posts/id
+Content-Type: application/json
+
+{
+  "id" : 1
+}
+
+####
+GET http://127.0.0.1:8080/posts/time
+Content-Type: application/json
+
+{
+  "postTime" : 1699335529499
+}
+
+####
+DELETE http://127.0.0.1:8080/posts/delete
+Content-Type: application/json
+
+{
+  "id" : 2
+}
